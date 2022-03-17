@@ -16,4 +16,4 @@ Nyein Cahn Soe
 
 [![Releases](https://img.shields.io/github/release/Jsane001/group6-devOp/all.svg?style=flat-square)](https://github.com/Jsane001/sem/releases)
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Jsane001/group6-devOp/A%20workflow%20for%20DevOp%20Coursework/develop?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Jsane001/group6-devOp/A%20workflow%20for%20DevOp%20Coursework/develop)
