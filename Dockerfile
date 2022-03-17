@@ -1,4 +1,4 @@
 FROM openjdk:latest
-COPY ./target/classes/com /tmp/com
+COPY ./target/Group6DevOps-0.1.0.1-jar-with-dependencies.jar /tmp
 WORKDIR /tmp
-ENTRYPOINT ["java", "com.napier.students.App"]
+ENTRYPOINT ["java", "-jar", "Group6DevOps-0.1.0.1-jar-with-dependencies.jar"]
