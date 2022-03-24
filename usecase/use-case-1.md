@@ -4,7 +4,7 @@
 
 ### Goal in Context
 
-As an *Organization Employee* I want *to produce a report on the countries in the world organised by largest population to smallest* so that *I can support financial reporting of the organisation.*
+As an *Organization Employee* I want *to produce a report on the countries in the world organized by largest population to smallest*.
 
 ### Scope
 
